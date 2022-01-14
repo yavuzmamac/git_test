@@ -1,2 +1,1 @@
-# git_test
-My first repos on github
+This is Yavuz's first git project!
